@@ -1,7 +1,7 @@
 Análise de Dados de Mortalidade - SIM 2020
 Este repositório contém uma análise exploratória de dados de mortalidade no Brasil utilizando o dataset do Sistema de Informações sobre Mortalidade (SIM) referente ao ano de 2020.
 
-O projeto foi desenvolvido por [Juliano Vitorino] e [Bruna Luiza], utilizando o Google Colab como ambiente de análise.
+O projeto foi desenvolvido por Juliano Vitorino e Bruna Luiza, utilizando o Google Colab como ambiente de análise.
 
 Objetivo
 Explorar e analisar padrões de mortalidade no Brasil em 2020 com foco em:
